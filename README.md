@@ -15,9 +15,7 @@ Price delver works in following steps:
 3. **Get Prices** - Price Delver get your competitors prices and saves them in service.
 4. **Return prices** - Price delvers returns prices to your system via API. Currently you can call our API to return prices of all competitors for all your products.
 
-[Price Delver Data Flow](/img/force_spike_flow.png "Price Delver Data Flow")
-
-
+![Price Delver Data Flow](./img/force_spike_flow.png?raw=true)
 
 ## API Specification
 

@@ -13,7 +13,8 @@ Price delver works in following steps:
 1. **Insert your products** - Price delver reads your Google Merchant Center product feed and fetches products from it.
 2. **Define competitors** - You can define competitors you want Price Delver to regular check for price of your products. You can define both direct competitors or aggregators, which contain multiple competitors.
 3. **Get Prices** - Price Delver get your competitors prices and saves them in service.
-4. **Return prices** - Price delvers returns prices to your system via API. Currently you can call our API to return prices of all competitors for all your products.
+4. **Return all prices** - Price delver returns prices to your system via API. Currently you can call our API to return prices of all competitors for all your products.
+5. **Return suggested prices** - Price delver will calculate prices based on your rules and return them for all the products together with all prices of all your competitors.
 
 ![Price Delver Data Flow](./img/force_spike_flow.png?raw=true)
 

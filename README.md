@@ -39,7 +39,7 @@ Price delver fetches your feed. We expect the feed to be in the format defined i
 
 In case our service will fail to read your feed 3 consecutive times our customer support will contact your administrator contact.
 
-### 3. Get prices
+### 4&5. Get prices
 
 `GET /products`
 
